@@ -7,10 +7,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        // Personalización de colores para el tema Negro/Rojo
+        // Personalización de colores para el tema Negro/Morado
         accent: {
-          DEFAULT: '#ef4444', // red-500
-          dark: '#b91c1c',    // red-700
+          DEFAULT: '#a855f7', // purple-500
+          dark: '#7e22ce',    // purple-700
         }
       }
     },
